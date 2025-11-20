@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <i>Backend Developer @ <b>Canarius Team</b></i><br>
+  <i>Backend Developer</i><br>
   <i>"Logic is the anatomy of thought."</i>
 </div>
 
@@ -37,18 +37,46 @@ func main() {
 
     fmt.Printf("Ready to build scalable systems! 🚀")
 }
-🛠️ My Arsenal
-<div align="center"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgo,postgres,docker,redis,hasura,gcp,linux,git,vim,postman%26perline%3D10" /> </div>
+```
 
-📊 GitHub Analytics
-<div align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dvonam007%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" /> </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dvonam007%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" /> </a> </div>
+### 🛠️ My Arsenal
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=go,postgres,docker,redis,graphql,gcp,linux,git,vim,postman&perline=10" />
+</div>
 
+### 📊 GitHub Analytics
 
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dvonam007%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" alt="GitHub Streak" /> </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vonam007/vonam007/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vonam007/vonam007/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vonam007/vonam007/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<div align="center"> <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /> </a> </div>
-```
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vonam007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonam007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=vonam007&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <a href="mailto:vonguyenhoainam123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nam-v%C3%B5-199a0a275">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
